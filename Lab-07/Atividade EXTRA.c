@@ -1,3 +1,8 @@
+/*
+        Atividade Extra
+        Por Luís H.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
