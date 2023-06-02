@@ -20,7 +20,7 @@ int main()
     printf("Digite um valor para A: ");
     scanf("%d", &A);
     
-    //Cálcula e exibi o dobro, triplo e quádruplo de A
+    //Calcula e exibi o dobro, triplo e quádruplo de A
     printf("O dobro de A eh: %d\n", 2 * *B);
     printf("O triplo de A eh: %d\n", 3 * **C);
     printf("O quadruplo de A eh: %d\n", 4 * ***D);
